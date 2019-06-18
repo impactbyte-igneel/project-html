@@ -1,3 +1,3 @@
 # Project HTML
 
-![Screenshot](screenshot.png)
+![Screenshot](images/screenshot.png)
